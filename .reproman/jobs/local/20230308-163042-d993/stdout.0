@@ -1,0 +1,19 @@
+[ReproMan] pre-command...
+[ReproMan] executing command code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--22.0.6.sing sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc participant --participant-label '01' -w '/scratch1/03201/jbwexler/work_dir/mriqc/ds004219_sub-01' -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds004219 --ica --mem_gb 30
+[ReproMan] ... within /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc
+230309-11:37:08,600 cli IMPORTANT:
+	 
+    Running MRIQC version 22.0.6:
+      * BIDS dataset path: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/sourcedata/raw.
+      * Output folder: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc.
+      * Analysis levels: ['participant'].
+
+230309-11:37:08,913 nipype.workflow INFO:
+	 Building functional MRIQC workflow for files: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/sourcedata/raw/sub-01/ses-01/func/sub-01_ses-01_task-atten_bold.nii.gz, /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/sourcedata/raw/sub-01/ses-02/func/sub-01_ses-02_task-atten_bold.nii.gz.
+230309-11:37:16,918 nipype.workflow INFO:
+	 Building anatomical MRIQC workflow (</scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/sourcedata/raw/sub-01/ses-01/anat/sub-01_ses-01_T1w.nii.gz> and </scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/sourcedata/raw/sub-01/ses-02/anat/sub-01_ses-02_T1w.nii.gz>)..
+230309-11:38:16,656 cli WARNING:
+	 IMPORTANT: Anonymized quality metrics (IQMs) will be submitted to MRIQC's metrics repository. Submission of IQMs can be disabled using the ``--no-sub`` argument. Please visit https://mriqc.readthedocs.io/en/latest/dsa.html to revise MRIQC's Data Sharing Agreement.
+230309-11:38:16,840 nipype.workflow INFO:
+	 Workflow mriqc_wf settings: ['check', 'execution', 'logging', 'monitoring']
+[ReproMan] waiting for threshold of jobs to complete before continuing...
