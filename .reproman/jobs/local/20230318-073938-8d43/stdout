@@ -1,0 +1,59 @@
+[0;34mREMORA Notification: [0;34m  GPU monitoring is active, but not on this node type. [0m 
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    2
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc
+   Processes per host: 5
+   Total processes:    10
+   Total jobs:         10
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 4 running job 1 on c208-005.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.0)
+Launcher: Task 0 running job 2 on c208-005.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 1 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.1 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.1)
+Launcher: Task 6 running job 3 on c208-024.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 2 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.2 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.2)
+Launcher: Job 2 completed in 2 seconds.
+Launcher: Task 0 running job 4 on c208-005.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 3 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.3 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.3)
+Launcher: Job 4 completed in 1 seconds.
+Launcher: Task 0 running job 5 on c208-005.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 4 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.4 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.4)
+Launcher: Task 1 running job 6 on c208-005.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 5 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.5 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.5)
+Launcher: Task 9 running job 7 on c208-024.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 6 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.6 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.6)
+Launcher: Job 3 completed in 4 seconds.
+Launcher: Job 6 completed in 2 seconds.
+Launcher: Job 5 completed in 2 seconds.
+Launcher: Task 6 running job 8 on c208-024.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 7 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.7 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.7)
+Launcher: Job 7 completed in 1 seconds.
+Launcher: Task 1 running job 9 on c208-005.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 8 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.8 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.8)
+Launcher: Task 9 done. Exiting.
+Launcher: Task 0 running job 10 on c208-005.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/runscript 9 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stdout.9 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/.reproman/jobs/local/20230318-073938-8d43/stderr.9)
+Launcher: Job 9 completed in 1 seconds.
+Launcher: Task 1 done. Exiting.
+Launcher: Job 10 completed in 1 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Job 8 completed in 1 seconds.
+Launcher: Task 6 done. Exiting.
+Launcher: Job 1 completed in 10 seconds.
+Launcher: Task 4 done. Exiting.
+Launcher: Done. Job exited without errors
+
+
+
+=============================== REMORA SUMMARY ===============================
+ Max Virtual  Memory Per Node :     4.12 GB
+ Max Physical Memory Per Node :     0.12 GB
+ Available Memory at time 0.0 :   177.56 GB
+ Total Elapsed Time           :  0d 0h  0m 27s 895ms
+------------------------------------------------------------------------------
+ Max IO Load / home1          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch1       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch2       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch3       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / work2          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+==============================================================================
+ Sampling Period              : 10 seconds
+ Report Directory             : R=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004219-mriqc/remora_5328625
+ Google Plots HTML Index Page : $R/remora_summary.html
+==============================================================================
+
